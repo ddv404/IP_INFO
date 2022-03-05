@@ -27,6 +27,8 @@
 python调用方式：
 ![image](https://user-images.githubusercontent.com/97394404/156864400-75c7824b-0ef3-4c4f-a320-38cc1644354f.png)
 
+如响应内容为空，则表示没有查询到
+
 批量获取IP信息，可使用python的方式，烂机器并发也可1000以上
 
 后台：
